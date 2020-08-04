@@ -1,1 +1,3 @@
 hello . this is the firstum first version in my learning process of git.
+
+i am making new changes
